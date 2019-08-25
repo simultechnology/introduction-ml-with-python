@@ -20,4 +20,5 @@ pip install --upgrade pip
 pip install numpy scipy matplotlib ipython scikit-learn pandas pillow
 pip install jupyter ipykernel jupyter-contrib-nbextensions jupyter-nbextensions-configurator
 ipython kernel install --user --name=introduction-ml-with-python
+pip install mglearn
 ```
